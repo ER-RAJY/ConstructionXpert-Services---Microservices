@@ -6,11 +6,13 @@ import com.example.projetc_service.service.ProjetsImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-@RestController("/projets")
+@RestController
+@RequestMapping("/projets")
 public class ProjectsController implements IprojetsController {
     @Autowired
     IprojectService projectService;

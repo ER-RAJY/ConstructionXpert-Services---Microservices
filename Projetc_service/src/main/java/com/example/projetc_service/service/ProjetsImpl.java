@@ -29,16 +29,19 @@ public class ProjetsImpl implements IprojectService{
 
     @Override
     public Projets editeProject(Long id, Projets projet) {
-         projectRepository.findById(id);
-         Projets projets = new Projets();
-         projets.setId(id);
-         projets.setNom(projet.getNom());
-         projets.setBudget(projet.getBudget());
-         projets.setDescription(projet.getDescription());
-         projets.setDate_fin(projet.getDate_fin());
-         projets.setDate_debut(LocalDate.now());
-         return projectRepository.save(projet);
+        Projets existingProjet = projectRepository.findById(id)
+                .orElseThrow(() -> new RuntimeException("Project not found"));
+
+        existingProjet.setNom(projet.getNom());
+        existingProjet.setBudget(projet.getBudget());
+        existingProjet.setDescription(projet.getDescription());
+        existingProjet.setDate_fin(projet.getDate_fin());
+        existingProjet.setDate_debut(projet.getDate_debut());
+
+        return projectRepository.save(existingProjet);
     }
+
+
 
     @Override
     public void deleteProject(Long id) {
