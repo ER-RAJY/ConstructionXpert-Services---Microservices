@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21702d88-7363-4f5d-a85c-055dbbe04688" name="Changes" comment="create interface de projetJpa">
+      <change afterPath="$PROJECT_DIR$/.idea/ConstructionXS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Projets_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets_service/src/main/java/com/Projets/Service/ProjetsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projets_service/src/main/java/com/Projets/Service/ProjetsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Projets_service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets_service/src/main/resources/db/migration/V1__create_table_Projets.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Projets_service/src/main/resources/db/migration/V1__create_table_Projets.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressource_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ressource_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressource_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Ressource_service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressource_service/src/main/resources/db/migration/V1__create_table_Ressource.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Ressource_service/src/main/resources/db/migration/V1__create_table_Ressource.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taches_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Taches_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taches_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Taches_service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taches_service/src/main/resources/db/migration/V1__create_table_Taches.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Taches_service/src/main/resources/db/migration/V1__create_table_Taches.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lEZs4ACXtzlLlA2cTKrP5SRT7g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.Projets_service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Projets_service [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.discovery_service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.discovery_service [install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ConstructionXpertSApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.DiscoveryServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ProjetsServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.RessourceServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.TachesServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ecole enaa/Desktop/micro/ConstructionXS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RessourceServiceApplication">
+    <configuration name="ConstructionXpertSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ConstructionXpertS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.construc.ConstructionXpertSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.discovery.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjetsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Projets_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Projets.ProjetsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RessourceServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Ressource_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Ressources.RessourceServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TachesServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Taches_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Taches.TachesServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConstructionXpertSApplication" />
+      <item itemvalue="Spring Boot.DiscoveryServiceApplication" />
+      <item itemvalue="Spring Boot.ProjetsServiceApplication" />
+      <item itemvalue="Spring Boot.RessourceServiceApplication" />
+      <item itemvalue="Spring Boot.TachesServiceApplication" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21702d88-7363-4f5d-a85c-055dbbe04688" name="Changes" comment="" />
+      <created>1724747402842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724747402842</updated>
+      <workItem from="1724747403941" duration="1010000" />
+      <workItem from="1724750723651" duration="2836000" />
+      <workItem from="1724765053140" duration="30000" />
+      <workItem from="1724765122334" duration="50000" />
+      <workItem from="1724765221167" duration="24000" />
+      <workItem from="1724765291457" duration="178000" />
+      <workItem from="1724765535363" duration="450000" />
+      <workItem from="1724766244654" duration="1195000" />
+      <workItem from="1724768987800" duration="430000" />
+      <workItem from="1724831794222" duration="7000" />
+      <workItem from="1724851158105" duration="17000" />
+      <workItem from="1724919637760" duration="29000" />
+      <workItem from="1724945822385" duration="49000" />
+      <workItem from="1724945885563" duration="34000" />
+      <workItem from="1724946184416" duration="50000" />
+      <workItem from="1725130304538" duration="3080000" />
+      <workItem from="1725265942828" duration="7649000" />
+      <workItem from="1725438844849" duration="3118000" />
+      <workItem from="1725445398841" duration="801000" />
+    </task>
+    <task id="LOCAL-00001" summary="create class de Projet">
+      <option name="closed" value="true" />
+      <created>1724750802926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724750802926</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create interface de projetJpa">
+      <option name="closed" value="true" />
+      <created>1724751338207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724751338207</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create class de Projet" />
+    <MESSAGE value="create interface de projetJpa" />
+    <option name="LAST_COMMIT_MESSAGE" value="create interface de projetJpa" />
+  </component>
+</project>
